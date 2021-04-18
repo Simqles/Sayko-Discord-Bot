@@ -12,7 +12,8 @@ exports.run = async(client,messsage,args) => {
 };
 exports.conf = {
   aliases: ["Yedek","İsimleri","Yazın"],
-  permLevel: 0;
+  permLevel: 0,
+  kategori: '<Kategoriyi gir>'
 };
 exports.help = {
   name: "Komutun Adı",
