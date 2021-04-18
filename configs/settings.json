@@ -1,5 +1,5 @@
 {
-    "token": "ODEzNzY2MzU2NTYyMDgzODUw.YDUE-g.C6P2Qzp9sU71gPuIogKTa6vqqbo",
-    "prefix": "s!",
-    "link": "mongodb+srv://memba:dldcA8yRfB4IcSUq@cluster0.i8r4z.mongodb.net/sayko?retryWrites=true&w=majority"
+    "token": "enter your bot token here",
+    "prefix": "enter the prefix",
+    "link": "enter here your mongodb link"
 }
